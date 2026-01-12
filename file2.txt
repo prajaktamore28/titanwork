@@ -1,0 +1,7 @@
+
+Remote Repository
+git clone url -Clone repo to local
+Local to remote integration
+1.$git remote add origin https://github.com/prajaktamore28/titanwork.git
+cat .git/config (optional)
+2. $ git branch -M main -> which will change the branch name from master to main
